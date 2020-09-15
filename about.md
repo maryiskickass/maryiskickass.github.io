@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am a digital media professional currently based in Barcelona, Spain.
 
-### More Information
+I leverage my 12+ years of online advertising experience to help publishers of all sizes maximize their revenue.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm passionate about integrity, equality and diversity - and how a focus on purposeful inclusion in the workplace will bring success for both employers and employees.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://www.linkedin.com/in/marycatherinebrannen/]
