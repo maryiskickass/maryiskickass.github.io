@@ -12,4 +12,4 @@ I'm passionate about integrity, equality and diversity - and how a focus on purp
 
 ### Contact me
 
-[https://www.linkedin.com/in/marycatherinebrannen/]
+https://www.linkedin.com/in/marycatherinebrannen/
