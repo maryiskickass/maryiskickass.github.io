@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Just some links I find important to hold on to!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+ 
+
+[How to develop the first D&I initatives in a workplace](https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/how-to-develop-a-diversity-and-inclusion-initiative.aspx)
+
+[The debate about quotas](https://www.gendereconomy.org/the-debate-about-quotas/) 
+
+[The grit narrative](https://radicalscholarship.wordpress.com/2014/01/30/the-grit-narrative-grit-research-and-codes-that-blind/) 
