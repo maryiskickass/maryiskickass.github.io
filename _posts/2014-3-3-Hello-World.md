@@ -4,9 +4,6 @@ title: Useful D&I links for people to check out:
 ---
 
 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
  
 [Diversily - Inclusive Experience Design](https://diversily.thinkific.com?grsf=zvxxj9)  
 
